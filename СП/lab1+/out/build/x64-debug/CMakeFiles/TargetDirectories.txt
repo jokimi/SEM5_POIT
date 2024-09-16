@@ -1,0 +1,6 @@
+D:/BSTU/5 sem/СП/Лабы/lab1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab1/out/build/x64-debug/lab1/CMakeFiles/translate.dir
+D:/BSTU/5 sem/СП/Лабы/lab1/out/build/x64-debug/lab1/CMakeFiles/test_translate.dir
+D:/BSTU/5 sem/СП/Лабы/lab1/out/build/x64-debug/lab1/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab1/out/build/x64-debug/lab1/CMakeFiles/rebuild_cache.dir
