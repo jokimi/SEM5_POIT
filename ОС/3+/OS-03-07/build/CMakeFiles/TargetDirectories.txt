@@ -1,0 +1,5 @@
+/mnt/d/bstu/5 sem/ос/лабы/3/os-03-07/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/3/os-03-07/build/CMakeFiles/edit_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/3/os-03-07/build/OS-03-07/CMakeFiles/rebuild_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/3/os-03-07/build/OS-03-07/CMakeFiles/edit_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/3/os-03-07/build/OS-03-07/CMakeFiles/OS-03-07.dir
