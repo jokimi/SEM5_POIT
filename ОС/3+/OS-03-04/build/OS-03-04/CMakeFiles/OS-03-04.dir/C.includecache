@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/bstu/5 sem/ос/Лабы/3/OS-03-04/OS-03-04/OS-03-04.c
+stdio.h
+-
+windows.h
+-
+unistd.h
+-
+
