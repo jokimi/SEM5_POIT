@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WEB2C</title>
+</head>
+<body>
+    <h1>C</h1>
+    <form id="formAB">
+        <input type="text" id="valueX" name="valueX" placeholder="Введите значение для X" required>
+        <br/>
+        <input type="text" id="valueY" name="valueY" placeholder="Введите значение для Y" required>
+        <br/>
+        <input type="text" id="valueN" name="valueN" placeholder="Введите значение для N" required>
+        <br/>
+        <button type="button" id="asyncSubmit">Отправить асинхронно</button>
+        <button type="button" id="syncSubmit">Отправить синхронно</button>
+    </form>
+    <div id="resultA"></div>
+    <div id="resultB"></div>
+</body>
+    <script>
+        const resultA = document.getElementById('resultA');
+        const resultB = document.getElementById('resultB');
+        const asyncSubmit = document.getElementById('asyncSubmit');
+        const syncSubmit = document.getElementById('syncSubmit');
+        asyncSubmit.addEventListener('click', function(e) {
+            e.preventDefault();
+            sendRequests(false);
+        });
+        syncSubmit.addEventListener('click', function(e) {
+            e.preventDefault();
+            sendRequests(true);
+        });
+        function sendRequests(isSync) {
+            const x = document.getElementById('valueX').value;
+            const y = document.getElementById('valueY').value;
+            const n = document.getElementById('valueN').value;
+            // Асинхронный запрос на вычисление
+            const xhrA = new XMLHttpRequest();
+            xhrA.open('POST', '/calculate', !isSync);
+            xhrA.setRequestHeader('Content-Type', 'text/plain');
+            xhrA.setRequestHeader('X-value-x', x);
+            xhrA.setRequestHeader('X-value-y', y);
+            if (isSync) {
+                xhrA.send();
+                const z = xhrA.getResponseHeader('X-value-z');
+                resultA.textContent = "Результат: " + z;
+            } else {
+                xhrA.onload = function() {
+                    if (xhrA.status === 200) {
+                        const z = xhrA.getResponseHeader('X-value-z');
+                        resultA.textContent = "Результат: " + z;
+                    } else {
+                        resultA.textContent = "Ошибка при вычислении.";
+                    }
+                };
+                xhrA.send();
+            }
+            // Асинхронный запрос на генерацию
+            const xhrB = new XMLHttpRequest();
+            xhrB.open('POST', '/generate', !isSync);
+            xhrB.setRequestHeader('Content-Type', 'application/json');
+            xhrB.setRequestHeader('X-rand-n', n);
+            if (isSync) {
+                xhrB.send();
+                const dataB = JSON.parse(xhrB.responseText);
+                resultB.textContent = 'Результат задания B: ' + dataB.numbers.join(', ');
+            } else {
+                xhrB.onload = function() {
+                    if (xhrB.status === 200) {
+                        const dataB = JSON.parse(xhrB.responseText);
+                        resultB.textContent = 'Результат задания B: ' + dataB.numbers.join(', ');
+                    } else {
+                        resultB.textContent = "Ошибка при генерации чисел.";
+                    }
+                };
+                xhrB.send();
+            }
+        }
+    </script>
+</body>
+</html>
