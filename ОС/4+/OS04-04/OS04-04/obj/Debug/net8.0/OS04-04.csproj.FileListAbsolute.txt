@@ -1,0 +1,14 @@
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\bin\Debug\net8.0\OS04-04.exe
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\bin\Debug\net8.0\OS04-04.deps.json
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\bin\Debug\net8.0\OS04-04.runtimeconfig.json
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\bin\Debug\net8.0\OS04-04.dll
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\bin\Debug\net8.0\OS04-04.pdb
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\obj\Debug\net8.0\OS04-04.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\obj\Debug\net8.0\OS04-04.AssemblyInfoInputs.cache
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\obj\Debug\net8.0\OS04-04.AssemblyInfo.cs
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\obj\Debug\net8.0\OS04-04.csproj.CoreCompileInputs.cache
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\obj\Debug\net8.0\OS04-04.dll
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\obj\Debug\net8.0\refint\OS04-04.dll
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\obj\Debug\net8.0\OS04-04.pdb
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\obj\Debug\net8.0\OS04-04.genruntimeconfig.cache
+D:\BSTU\5 sem\ОС\Лабы\4\OS04-04\OS04-04\obj\Debug\net8.0\ref\OS04-04.dll
