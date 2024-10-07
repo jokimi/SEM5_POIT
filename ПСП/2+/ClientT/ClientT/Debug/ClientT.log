@@ -1,0 +1,15 @@
+﻿  ClientT.cpp
+D:\BSTU\5 sem\ПСП\Лабы\2\ClientT\ClientT\ClientT.cpp(7,9): warning C4005: WINVER: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sdkddkver.h(245,9):
+      см. предыдущее определение "WINVER"
+  
+D:\BSTU\5 sem\ПСП\Лабы\2\ClientT\ClientT\ClientT.cpp(8,9): warning C4005: _WIN32_WINNT: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sdkddkver.h(224,10):
+      см. предыдущее определение "_WIN32_WINNT"
+  
+D:\BSTU\5 sem\ПСП\Лабы\2\ClientT\ClientT\ClientT.cpp(10,9): warning C4005: _WIN32_IE: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sdkddkver.h(269,9):
+      см. предыдущее определение "_WIN32_IE"
+  
+D:\BSTU\5 sem\ПСП\Лабы\2\ClientT\ClientT\ClientT.cpp(24,10): warning C4101: serverSocket: неиспользованная локальная переменная
+  ClientT.vcxproj -> D:\BSTU\5 sem\ПСП\Лабы\2\ClientT\Debug\ClientT.exe
