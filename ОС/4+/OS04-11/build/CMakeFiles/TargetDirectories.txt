@@ -1,0 +1,5 @@
+/mnt/d/bstu/5 sem/ос/лабы/4/os04-11/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/4/os04-11/build/CMakeFiles/edit_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/4/os04-11/build/OS04-11/CMakeFiles/rebuild_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/4/os04-11/build/OS04-11/CMakeFiles/edit_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/4/os04-11/build/OS04-11/CMakeFiles/OS04-11.dir

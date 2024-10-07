@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/OS04-11.dir/OS04-11.c.o  -o OS04-11  -lpthread 
