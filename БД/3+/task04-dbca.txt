@@ -1,0 +1,7 @@
+dbca -silent -createPluggableDatabase -createAsClone true -pdbName KEM_PDB -createListener true -datafileDestination '/oradata/KEM_PDB' -sid 'KEM' -pdbAdminPassword 'kempdb' -sourceDB 'ORCLCDB'
+
+ALTER PLUGGABLE DATABASE KEM_PDB OPEN;
+
+select * from dba_pdbs;
+
+SELECT pdb_name, status FROM cdb_pdbs;
