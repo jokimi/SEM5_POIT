@@ -1,0 +1,17 @@
+transport	period	payment
+metro	week	card
+trolleybus	decade	card
+metro	day	cash
+metro	decade	cash
+tram	decade	cash
+bus	month	cash
+bus	decade	card
+metro	month	card
+bus	week	cash
+trolleybus	month	cash
+tram	day	card
+tram	week	card
+trolleybus	week	cash
+bus	day	cash
+trolleybus	day	card
+tram	month	card
