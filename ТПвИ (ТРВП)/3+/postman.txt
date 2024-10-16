@@ -1,0 +1,9 @@
+pm.test("Response should be a JSON object", function () {
+    pm.response.to.have.jsonBody();
+});
+
+pm.test("Check sx and sy values", function () {
+    const jsonData = pm.response.json();
+    pm.expect(jsonData).to.have.property('sx');
+    pm.expect(jsonData).to.have.property('sy');
+});
