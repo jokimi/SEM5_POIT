@@ -1,0 +1,8 @@
+D:/BSTU/5 sem/СП/Лабы/lab2-linux/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab2-linux/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab2-linux/out/build/x64-debug/lab-02x-linux/CMakeFiles/lab-02x-linux.dir
+D:/BSTU/5 sem/СП/Лабы/lab2-linux/out/build/x64-debug/lab-02x-linux/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab2-linux/out/build/x64-debug/lab-02x-linux/CMakeFiles/rebuild_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab2-linux/out/build/x64-debug/lab-02e/CMakeFiles/lab-02e.dir
+D:/BSTU/5 sem/СП/Лабы/lab2-linux/out/build/x64-debug/lab-02e/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab2-linux/out/build/x64-debug/lab-02e/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+cmake -G Ninja -DCMAKE_C_COMPILER=clang ..
+ninja
+
+2a 2xmod 2b 2d
