@@ -1,0 +1,5 @@
+D:/BSTU/5 sem/ОС/Лабы/5/OS05-05/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/ОС/Лабы/5/OS05-05/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/BSTU/5 sem/ОС/Лабы/5/OS05-05/out/build/x64-debug/OS05-05/CMakeFiles/OS05-05.dir
+D:/BSTU/5 sem/ОС/Лабы/5/OS05-05/out/build/x64-debug/OS05-05/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/ОС/Лабы/5/OS05-05/out/build/x64-debug/OS05-05/CMakeFiles/rebuild_cache.dir
