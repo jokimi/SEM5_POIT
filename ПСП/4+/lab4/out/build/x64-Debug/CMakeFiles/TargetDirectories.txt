@@ -1,0 +1,6 @@
+D:/BSTU/5 sem/ПСП/Лабы/lab4/out/build/x64-Debug/CMakeFiles/clientB.dir
+D:/BSTU/5 sem/ПСП/Лабы/lab4/out/build/x64-Debug/CMakeFiles/serverB.dir
+D:/BSTU/5 sem/ПСП/Лабы/lab4/out/build/x64-Debug/CMakeFiles/serverU.dir
+D:/BSTU/5 sem/ПСП/Лабы/lab4/out/build/x64-Debug/CMakeFiles/clientU.dir
+D:/BSTU/5 sem/ПСП/Лабы/lab4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/ПСП/Лабы/lab4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
