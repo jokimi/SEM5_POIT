@@ -1,0 +1,7 @@
+D:\Applications\environments
+
+selenium_env\Scripts\activate.bat
+
+(selenium_env) D:\Applications\environments>
+
+selenium_env\Scripts\deactivate.bat
