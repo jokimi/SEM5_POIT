@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/bstu/5 sem/ос/лабы/6/linux/OS06-06/OS06-06.cpp
+stdio.h
+-
+time.h
+-
+unistd.h
+-
+pthread.h
+-
+

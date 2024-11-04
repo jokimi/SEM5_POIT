@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/OS06-06.dir/OS06-06.cpp.o  -o OS06-06  -lpthread 

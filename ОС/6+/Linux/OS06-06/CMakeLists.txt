@@ -1,0 +1,7 @@
+﻿cmake_minimum_required (VERSION 3.8)
+project ("Linux")
+add_executable (OS06-06 "OS06-06.cpp")
+if (CMAKE_VERSION VERSION_GREATER 3.12)
+  set_property(TARGET OS06-06 PROPERTY CXX_STANDARD 20)
+endif()
+target_link_libraries(OS06-06 pthread)

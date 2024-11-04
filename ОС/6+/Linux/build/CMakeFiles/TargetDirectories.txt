@@ -1,0 +1,5 @@
+/mnt/d/bstu/5 sem/ос/лабы/6/linux/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/6/linux/build/CMakeFiles/edit_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/6/linux/build/OS06-06/CMakeFiles/rebuild_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/6/linux/build/OS06-06/CMakeFiles/edit_cache.dir
+/mnt/d/bstu/5 sem/ос/лабы/6/linux/build/OS06-06/CMakeFiles/OS06-06.dir
