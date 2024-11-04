@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ServerB\\CMakeFiles\\ServerB.dir\\ServerB.cpp.obj",
+            "outputs": [
+                "D:\\BSTU\\5 sem\\ПСП\\Лабы\\5\\lab05\\build\\vc140.pdb",
+                "ServerB\\CMakeFiles\\ServerB.dir\\ServerB.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

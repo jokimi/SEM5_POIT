@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ClientS\\CMakeFiles\\ClientS.dir\\ClientS.cpp.obj",
+            "outputs": [
+                "D:\\BSTU\\5 sem\\ПСП\\Лабы\\5\\lab05\\build\\vc140.pdb",
+                "ClientS\\CMakeFiles\\ClientS.dir\\ClientS.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+D:/BSTU/5 sem/ПСП/Лабы/5/lab05/build/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/ПСП/Лабы/5/lab05/build/CMakeFiles/rebuild_cache.dir
+D:/BSTU/5 sem/ПСП/Лабы/5/lab05/build/ClientS/CMakeFiles/ClientS.dir
+D:/BSTU/5 sem/ПСП/Лабы/5/lab05/build/ClientS/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/ПСП/Лабы/5/lab05/build/ClientS/CMakeFiles/rebuild_cache.dir
+D:/BSTU/5 sem/ПСП/Лабы/5/lab05/build/ServerB/CMakeFiles/ServerB.dir
+D:/BSTU/5 sem/ПСП/Лабы/5/lab05/build/ServerB/CMakeFiles/server.dir
+D:/BSTU/5 sem/ПСП/Лабы/5/lab05/build/ServerB/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/ПСП/Лабы/5/lab05/build/ServerB/CMakeFiles/rebuild_cache.dir
