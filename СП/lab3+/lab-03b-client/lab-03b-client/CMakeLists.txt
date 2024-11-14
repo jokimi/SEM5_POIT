@@ -1,0 +1,6 @@
+﻿cmake_minimum_required (VERSION 3.8)
+project ("lab-03b-client" C)
+add_executable (lab-03b-client "lab-03b-client.c")
+if (CMAKE_VERSION VERSION_GREATER 3.12)
+  set_property(TARGET lab-03b-client PROPERTY C_STANDARD 11)
+endif()
