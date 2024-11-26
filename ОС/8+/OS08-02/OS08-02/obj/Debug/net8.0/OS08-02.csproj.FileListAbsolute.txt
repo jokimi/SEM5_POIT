@@ -1,0 +1,14 @@
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\bin\Debug\net8.0\OS08-02.exe
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\bin\Debug\net8.0\OS08-02.deps.json
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\bin\Debug\net8.0\OS08-02.runtimeconfig.json
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\bin\Debug\net8.0\OS08-02.dll
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\bin\Debug\net8.0\OS08-02.pdb
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\obj\Debug\net8.0\OS08-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\obj\Debug\net8.0\OS08-02.AssemblyInfoInputs.cache
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\obj\Debug\net8.0\OS08-02.AssemblyInfo.cs
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\obj\Debug\net8.0\OS08-02.csproj.CoreCompileInputs.cache
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\obj\Debug\net8.0\OS08-02.dll
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\obj\Debug\net8.0\refint\OS08-02.dll
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\obj\Debug\net8.0\OS08-02.pdb
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\obj\Debug\net8.0\OS08-02.genruntimeconfig.cache
+D:\BSTU\5 sem\ОС\Лабы\8\OS08-02\OS08-02\obj\Debug\net8.0\ref\OS08-02.dll

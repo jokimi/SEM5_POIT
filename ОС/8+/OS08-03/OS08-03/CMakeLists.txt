@@ -1,0 +1,6 @@
+﻿cmake_minimum_required (VERSION 3.8)
+project ("OS08-03")
+add_executable (OS08-03 "OS08-03.cpp")
+if (CMAKE_VERSION VERSION_GREATER 3.12)
+  set_property(TARGET OS08-03 PROPERTY CXX_STANDARD 20)
+endif()
