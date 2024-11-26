@@ -1,0 +1,1 @@
+pytest "D:\BSTU\5 sem\ТПО\Лабы\10\lab10.py" -m parametrize -s -v --html="d:/bstu/5 sem/тпо/лабы/10/report.html"
