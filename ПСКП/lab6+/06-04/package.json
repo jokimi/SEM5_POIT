@@ -1,0 +1,20 @@
+{
+  "name": "lab06-m0603",
+  "version": "1.0.5",
+  "description": "Модуль для отправки писем с использованием nodemailer",
+  "main": "m0603.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodemailer",
+    "email",
+    "sendmail",
+    "javascript"
+  ],
+  "author": "jokimi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
