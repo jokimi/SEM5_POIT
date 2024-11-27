@@ -24,7 +24,7 @@ def test_login(mock_login, setup_driver):
     print("[TEST] Starting test: test_login")
 
     # Здесь вызывается заглушка метода login
-    setup_driver.login("2024jokeiminny", "jokeiminny2024")
+    setup_driver.login("login", "password")
 
     # Проверка вызова заглушки
     mock_login.assert_called_once_with("2024jokeiminny", "jokeiminny2024")
