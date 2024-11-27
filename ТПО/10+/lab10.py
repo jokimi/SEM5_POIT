@@ -11,8 +11,8 @@ import json
 import os
 
 # Параметры теста
-GITHUB_USERNAME = "2024jokeiminny"
-GITHUB_PASSWORD = "jokeiminny2024"
+GITHUB_USERNAME = "login"
+GITHUB_PASSWORD = "password"
 NEW_REPO_NAME = 'new-git-demo'
 
 # Настройки браузера
