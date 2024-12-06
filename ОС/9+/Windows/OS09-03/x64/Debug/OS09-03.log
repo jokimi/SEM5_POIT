@@ -1,0 +1,5 @@
+﻿  OS09-03.cpp
+D:\BSTU\5 sem\ОС\Лабы\9\Windows\OS09-03\OS09-03.cpp(70,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSTU\5 sem\ОС\Лабы\9\Windows\OS09-03\OS09-03.cpp(73,26): warning C4244: =: преобразование "WCHAR" в "char", возможна потеря данных
+D:\BSTU\5 sem\ОС\Лабы\9\Windows\OS09-03\OS09-03.cpp(94,26): warning C4244: =: преобразование "WCHAR" в "char", возможна потеря данных
+  OS09-03.vcxproj -> D:\BSTU\5 sem\ОС\Лабы\9\Windows\x64\Debug\OS09-03.exe

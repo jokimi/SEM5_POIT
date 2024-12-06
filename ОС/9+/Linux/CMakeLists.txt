@@ -1,0 +1,5 @@
+﻿cmake_minimum_required (VERSION 3.8)
+project ("Linux")
+add_subdirectory ("OS09-05")
+add_subdirectory ("OS09-06")
+add_subdirectory ("OS09-07")
