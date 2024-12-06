@@ -1,0 +1,6 @@
+﻿cmake_minimum_required (VERSION 3.8)
+project ("Linux" C)
+add_executable (lab-05d "lab-05d.c")
+if (CMAKE_VERSION VERSION_GREATER 3.12)
+  set_property(TARGET lab-05d PROPERTY C_STANDARD 11)
+endif()
