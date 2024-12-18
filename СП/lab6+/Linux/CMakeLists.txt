@@ -1,0 +1,5 @@
+﻿cmake_minimum_required (VERSION 3.8)
+project ("Linux" C)
+add_subdirectory ("lab-06d")
+add_subdirectory ("lab-06e")
+add_subdirectory ("lab-06f")

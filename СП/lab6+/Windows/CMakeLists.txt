@@ -1,0 +1,5 @@
+﻿cmake_minimum_required (VERSION 3.8)
+project ("Windows" C)
+add_subdirectory ("lab-06a")
+add_subdirectory ("lab-06b")
+add_subdirectory ("lab-06c")
