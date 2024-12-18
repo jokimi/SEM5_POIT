@@ -1,0 +1,17 @@
+body {
+	color: red;
+	font-family: Consolas;
+	display: block;
+	width: 100%;
+}
+h1 {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+img {
+	width: 25%;
+}
+video {
+	width: 50%;
+}

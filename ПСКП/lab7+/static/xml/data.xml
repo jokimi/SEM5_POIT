@@ -1,0 +1,6 @@
+<note>
+    <to>User</to>
+    <from>Server</from>
+    <heading>Notification</heading>
+    <body>Hello, this is a test XML response!</body>
+</note>
