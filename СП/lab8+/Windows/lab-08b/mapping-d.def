@@ -1,0 +1,7 @@
+EXPORTS
+    OpenMapping @1
+    AddRow @2
+    RemRow @3
+    PrintRow @4
+    PrintRows @5
+    CloseMapping @6
