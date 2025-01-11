@@ -1,0 +1,70 @@
+1. Проверка менеджера служб
+
+ps -p 1 -o comm=
+
+2. Скрипт для init:
+
+sudo nano /etc/init.d/service-09d
+
+#!/bin/bash
+DAEMON=/usr/sbin/service-09d
+DAEMON_NAME=service-09d
+PIDFILE=/var/run/service-09d.pid
+WATCH_DIR="/home/jokimi/files"
+start() {
+    echo "Starting $DAEMON_NAME"
+    $DAEMON $WATCH_DIR &
+    echo $! > $PIDFILE
+}
+stop() {
+    echo "Stopping $DAEMON_NAME"
+    kill $(cat $PIDFILE)
+    rm -f $PIDFILE
+}
+case "$1" in
+    start)
+        start
+        ;;
+    stop)
+        stop
+        ;;
+    restart)
+        stop
+        start
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart}"
+        exit 1
+        ;;
+esac
+
+3. Делаем скрипт исполняемым
+
+sudo chmod +x /etc/init.d/service-09d
+
+4. Автозапуск демона:
+
+sudo update-rc.d service-09d defaults
+
+5. Компиляция демона
+
+cmake -G Ninja -DCMAKE_C_COMPILER=clang ..
+ninja
+sudo mv ./service-09d /usr/sbin/service-09d
+sudo rm -r /usr/sbin/service-09d <- для удаления
+
+6. Разрешаем доступ к логам
+
+sudo chmod -R 777 /var/log/service-09d
+
+7. Команды:
+
+sudo /etc/init.d/service-09d start
+sudo /etc/init.d/service-09d stop
+sudo /etc/init.d/service-09d restart
+
+8. Остановка и перезагрузка:
+
+ps aux | grep service-09d
+sudo kill -SIGTERM <PID>
+sudo kill -SIGHUP <PID>

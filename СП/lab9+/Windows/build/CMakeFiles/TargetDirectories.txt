@@ -1,0 +1,8 @@
+D:/BSTU/5 sem/СП/Лабы/lab9/Windows/build/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab9/Windows/build/CMakeFiles/rebuild_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab9/Windows/build/service-09/CMakeFiles/service-09.dir
+D:/BSTU/5 sem/СП/Лабы/lab9/Windows/build/service-09/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab9/Windows/build/service-09/CMakeFiles/rebuild_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab9/Windows/build/service-ctl/CMakeFiles/service-ctl.dir
+D:/BSTU/5 sem/СП/Лабы/lab9/Windows/build/service-ctl/CMakeFiles/edit_cache.dir
+D:/BSTU/5 sem/СП/Лабы/lab9/Windows/build/service-ctl/CMakeFiles/rebuild_cache.dir

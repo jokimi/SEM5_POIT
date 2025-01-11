@@ -1,0 +1,13 @@
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/CMakeFiles/install/strip.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/CMakeFiles/install/local.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/CMakeFiles/install.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/CMakeFiles/list_install_components.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/CMakeFiles/edit_cache.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/service-09d/CMakeFiles/install/strip.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/service-09d/CMakeFiles/install/local.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/service-09d/CMakeFiles/install.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/service-09d/CMakeFiles/list_install_components.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/service-09d/CMakeFiles/rebuild_cache.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/service-09d/CMakeFiles/edit_cache.dir
+/mnt/d/bstu/5 sem/сп/лабы/lab9/linux/build/service-09d/CMakeFiles/service-09d.dir

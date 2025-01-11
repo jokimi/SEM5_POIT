@@ -1,0 +1,15 @@
+sc create service-09 binPath= "D:\BSTU\5 sem\—œ\À‡·˚\lab9\Windows\build\service-09\service-09.exe" start= demand
+sc stop service-09
+sc start service-09 d:\logs d:\watch
+sc pause service-09
+sc continue service-09
+sc delete service-09
+sc query service-09
+
+service-ctl service-09 create "D:\BSTU\5 sem\—œ\À‡·˚\lab9\Windows\build\service-09\service-09.exe"
+service-ctl service-09 start d:\logs d:\watch
+service-ctl service-09 delete
+service-ctl service-09 stop
+service-ctl service-09 pause
+service-ctl service-09 continue
+service-ctl service-09 info
